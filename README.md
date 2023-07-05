@@ -1,4 +1,4 @@
-# Hi? i am Vladimir 👋
+# Hi, i am Vladimir 👋
 
 <!--
 **valdemar-leontev/valdemar-leontev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
