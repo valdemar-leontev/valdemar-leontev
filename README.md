@@ -1,66 +1,64 @@
 
-<style>  
-    .container {
-        max-width: 800px;
-        margin: 0 auto;
-        padding: 40px;
-        background-color: #fff;
-        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    }
-    
-    .header {
-        text-align: center;
-        margin-bottom: 40px;
-    }
-    
-    .header h1 {
-        color: #ff5722;
-        font-size: 32px;
-        margin-bottom: 10px;
-    }
-    
-    .header p {
-        font-size: 18px;
-    }
-    
-    .section {
-        margin-bottom: 40px;
-    }
-    
-    .section h2 {
-        color: #333;
-        font-size: 24px;
-        margin-bottom: 20px;
-    }
-    
-    .skills-list,
-    .projects-list,
-    .interests-list,
-    .contacts-list {
-        list-style-type: disc;
-        margin-left: 20px;
-    }
-    
-    .contacts-list {
-        list-style-type: none;
-        margin: 0;
-        padding: 0;
-    }
-    
-    .contacts-list li {
-        display: inline;
-        margin-right: 10px;
-    }
-    
-    .contacts-list li:last-child {
-        margin-right: 0;
-    }
-    
-    .footer {
-        text-align: center;
-        margin-top: 40px;
-    }
-</style>
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 40px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.header {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.header h1 {
+    color: #ff5722;
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+
+.header p {
+    font-size: 18px;
+}
+
+.section {
+    margin-bottom: 40px;
+}
+
+.section h2 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.skills-list,
+.projects-list,
+.interests-list,
+.contacts-list {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+.contacts-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.contacts-list li {
+    display: inline;
+    margin-right: 10px;
+}
+
+.contacts-list li:last-child {
+    margin-right: 0;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 40px;
+}
 
 <div class="container">
 <div class="header">
