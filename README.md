@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-<title>My Profile README</title>
+
 <style>
 body {
     font-family: Arial, sans-serif;
@@ -73,8 +69,7 @@ body {
     margin-top: 40px;
 }
 </style>
-</head>
-<body>
+
 <div class="container">
 <div class="header">
     <h1>Hello, I'm [Your Name]</h1>
@@ -123,5 +118,3 @@ body {
     <p>Have a great day!</p>
 </div>
 </div>
-</body>
-</html>
