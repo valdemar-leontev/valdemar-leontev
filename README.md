@@ -23,7 +23,7 @@
         <h1>💼 Projects</h2>
         <ul>
             <li>
-                <h2><a href="">Helpdesk</a></h2>
+                <h2>Helpdesk</h2>
                 <h4>📝 Description: </h4>
                 This application facilitates the creation and approval of requests within departments of large companies, aiming to streamline communication and collaboration. Key features include user roles (Administrator and User), request template management, request creation based on templates, file attachments, request filtering and history, viewing and editing existing requests, notifications, decision-making, organizational hierarchy, user management, request categories, responsible parties for each category, comments, and system notifications.
                 <h4>🚀 Language Stack: </h3>
@@ -41,7 +41,7 @@
             </li>
             <br />
             <li>
-                <h2><a href="">Test Project for Interview at Uchi.ru Company:</a></h2>
+                <h2>Test Project for Interview at Uchi.ru Company:</h2>
                     <h4>📝 Description: </h4>
                     Interview calendar for Uchi.ru. The Interview Calendar is a web-based tool designed to make scheduling easier.
                     <h4>🚀 Language Stack: </h3>
@@ -53,7 +53,7 @@
             </li>
             <br />
             <li>
-                    <h2><a href="">Test Projects for Interview at Mindbox Company:</a></h2>
+                    <h2>Test Projects for Interview at Mindbox Company: </h2>
                     <h2>1. ShapeSquares</h2>
                     <h4>📝 Description: </h4>
                     The Mindbox.ShapeSquares project is an API for calculating the areas of geometric shapes. It includes the core library with the logic for area calculations, tests to ensure functionality, and a web interface for obtaining shape areas through HTTP requests.
