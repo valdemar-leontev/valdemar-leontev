@@ -85,7 +85,7 @@
         <h1>📫 Contact</h1>
         <ul>
         <li>Email: <a href="mailto:valdemar.leontev@gmail.com">valdemar.leontev@gmail.com</a></li>
-        <li>Telegram: <a href="t.me/Mr_LeonWhite">Telegram Profile</a></li>
+        <li>Telegram: <a href="https://t.me/Mr_LeonWhite">Telegram Profile</a></li>
         </ul>
     </div>
     <div>
