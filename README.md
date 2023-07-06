@@ -1,4 +1,4 @@
-<div style="background-color: #0d1117">
+<div style="background-color: #1976D2">
     <div>
         <h1>👋 Hello, I'm Vladimir</h1>
         <h3>📈 Fullstack .Net Junior Developer (.Net/React/Python)</h2>
@@ -33,7 +33,7 @@
             <li>
                 <a href="project-link">Test Project for Interview at Uchi.ru Company:</a>
                 <br />
-                source: <a href="https://github.com/valdemar-leontev/uchi-ru-interview-calendar-front">Interview Calendar</a>
+                source: <a href="https://uchi-ru-interview-calendar.netlify.app/">Interview Calendar</a>
             </li>
             <br />
             <li>
