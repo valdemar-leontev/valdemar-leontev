@@ -24,6 +24,7 @@
         <ul>
             <li>
                 <h2>Helpdesk</h2>
+                <img src='.assets/helpdesk.png' style="width: 500px;"/>                
                 <h4>📝 Description: </h4>
                 This application facilitates the creation and approval of requests within departments of large companies, aiming to streamline communication and collaboration. Key features include user roles (Administrator and User), request template management, request creation based on templates, file attachments, request filtering and history, viewing and editing existing requests, notifications, decision-making, organizational hierarchy, user management, request categories, responsible parties for each category, comments, and system notifications.
                 <h4>🚀 Language Stack: </h3>
@@ -42,6 +43,8 @@
             <br />
             <li>
                 <h2>Test Project for Interview at Uchi.ru Company:</h2>
+                    <h2>1. Interview Calendar</h2>
+                    <img src='.assets/interview-calendar.png' style="width: 300px;"/> 
                     <h4>📝 Description: </h4>
                     Interview calendar for Uchi.ru. The Interview Calendar is a web-based tool designed to make scheduling easier.
                     <h4>🚀 Language Stack: </h3>
@@ -62,8 +65,9 @@
                     <h4>🔓 Open code: </h4>
                     <b>back: </b> <a href="https://github.com/valdemar-leontev/Mindbox.ShapeSquares">ShapeSquares</a>
                     <h2>2. ToDo List</h2>
+                    <img src='.assets/todo-list.png' style="width: 500px;"/> 
                     <h4>📝 Description: </h4>
-                    This is a simple task management application built using React and Redux. It allows users to create, delete, and edit tasks, as well as mark them as completed.
+                    A simple application for creating, modifying and deleting tasks and also filtering them depending on their status. This application stores tasks in LocalStorage, which allows users to use this application with complete confidence that they will not lose their data if they reboot or unsuccessfully shut down the computer.
                     <h4>🚀 Language Stack: </h3>
                     <b>front: </b>TypeScript, React, Redux
                     <h4>🔓 Open code: </h4>
