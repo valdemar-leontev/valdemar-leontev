@@ -1,48 +1,67 @@
-<div class="container">
-<div class="header">
-    <h1>Hello, I'm [Your Name]</h1>
-    <p>Welcome to my GitHub profile README! Here you'll find information about my skills, projects, and contact details.</p>
-</div>
-
-<div class="section">
-    <h2 styles={color: "red"}>🔧 Skills</h2>
-    <ul class="skills-list">
-    <li>React.js</li>
-    <li>TypeScript</li>
-    <li>C#</li>
-    <li>Python</li>
-    <li>ASP.NET Core</li>
-    <li>Django</li>
-    </ul>
-</div>
-
-<div class="section">
-    <h2>💼 Projects</h2>
-    <ul class="projects-list">
-    <li><a href="project-link">Project 1</a> - Brief description of project 1.</li>
-    <li><a href="project-link">Project 2</a> - Brief description of project 2.</li>
-    </ul>
-</div>
-
-<div class="section">
-    <h2>🌱 Interests</h2>
-    <ul class="interests-list">
-    <li>Artificial Intelligence and Machine Learning</li>
-    <li>Game Development</li>
-    <li>Data Analysis and Visualization</li>
-    </ul>
-</div>
-
-<div class="section">
-    <h2>📫 Contact</h2>
-    <ul class="contacts-list">
-    <li>Email: <a href="mailto:example@example.com">example@example.com</a></li>
-    <li>LinkedIn: <a href="linkedin-link">Your LinkedIn Profile</a></li>
-    </ul>
-</div>
-
-<div class="footer">
-    <p>Thank you for visiting my profile README! If you have any questions or suggestions, feel free to contact me. I'm open to collaborations and discussions.</p>
-    <p>Have a great day!</p>
-</div>
+<div style="background-color: #0d1117">
+    <div>
+        <h1>👋 Hello, I'm Vladimir</h1>
+        <h3>📈 Fullstack .Net Junior Developer (.Net/React/Python)</h2>
+        <p>Welcome to my GitHub profile README! Here you'll find information about my skills, projects, and contact details.</p>
+    </div>
+    <div>
+        <h2>🔧 Skills</h2>
+        <ul>
+            <li>JavaScript</li>
+            <li>TypeScript</li>
+            <li>React</li>
+            <li>C#</li>
+            <li>ASP.NET Core</li>
+            <li>Python</li>
+            <li>Django</li>
+            <li>PostgreSQL</li>
+            <li>Microsoft SQL Server</li>
+            <li>Docker</li>
+        </ul>
+    </div>
+    <div>
+        <h2>💼 Projects</h2>
+        <ul>
+            <li>
+                <a href="">Helpdesk</a>
+                <br />
+                front - <a href="https://github.com/valdemar-leontev/helpdesk-front">Helpdesk Front</a>
+                <br />
+                back - <a href="https://github.com/valdemar-leontev/helpdesk-back">Helpdesk Back</a>
+            </li>
+            <br />
+            <li>
+                <a href="project-link">Test Project for Interview at Uchi.ru Company:</a>
+                <br />
+                source: <a href="https://github.com/valdemar-leontev/uchi-ru-interview-calendar-front">Interview Calendar</a>
+            </li>
+            <br />
+            <li>
+                <a href="project-link">Test Projects for Interview at Mindbox Company:</a>
+                <br />
+                source: <a href="https://github.com/valdemar-leontev/Mindbox.ShapeSquares">ShapeSquares</a>
+                <br />
+                source: <a href="https://github.com/valdemar-leontev/mindbox-todo">ToDo List</a>
+            </li>
+        </ul>
+    </div>
+    <div>
+        <h2>🌱 Interests</h2>
+        <ul>
+            <li>Web Development</li>
+            <li>New Technologies</li>
+            <li>Web Design</li>
+        </ul>
+    </div>
+    <div>
+        <h2>📫 Contact</h2>
+        <ul>
+        <li>Email: <a href="mailto:valdemar.leontev@gmail.com">valdemar.leontev@gmail.com</a></li>
+        <li>Telegram: <a href="t.me/Mr_LeonWhite">Telegram Profile</a></li>
+        </ul>
+    </div>
+    <div>
+        <p>Thank you for visiting my profile README! If you have any questions or suggestions, feel free to contact me. I'm open to collaborations and discussions.</p>
+        <p>Have a great day!</p>
+    </div>
 </div>
