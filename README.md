@@ -1,4 +1,4 @@
-<div style="background-color: #FF9800">
+<div>
     <div>
         <h1>👋 Hello, I'm Vladimir</h1>
         <h3>📈 Fullstack .Net Junior Developer (.Net/React/Python)</h2>
