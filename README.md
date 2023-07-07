@@ -40,6 +40,18 @@
                 <h4>📱 App: </h4> 
                 <a href="">Helpdesk</a>
             </li>
+            <li>
+                <h2>Apple Site Front</h2>
+                <img src='.assets/apple-site-front.png' style="width: 500px;"/>                
+                <h4>📝 Description: </h4>
+                This site is an approximate copy of Apple's site, which contains AirPods Max headphones. The site has a beautiful and pleasant animation, many pages and spreads, the ability to add products to the cart and create your own AppleId.
+                <h4>🚀 Language Stack: </h3>
+                <b>front: </b>JavaScript, React
+                <h4>🔓 Open code: </h4>
+                front - <a href="https://github.com/valdemar-leontev/AppleReact">Apple Site Front</a>
+                <h4>📱 App: </h4> 
+                <a href="https://apple-site-air-pods-max.netlify.app">Apple Site Front</a>
+            </li>
             <br />
             <li>
                 <h2>Test Project for Interview at Uchi.ru Company:</h2>
