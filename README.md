@@ -12,6 +12,7 @@
             <li>React</li>
             <li>NextJs</li>
             <li>UI Libraries (material ui, devExtreme, radix-ui, shadcn/ui)</li>
+            <li>State managers (zustand, redux-toolkit, react context)</li>
             <li>C#</li>
             <li>ASP.NET Core</li>
             <li>Python</li>
