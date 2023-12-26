@@ -1,7 +1,7 @@
 <div>
     <div>
         <h1>👋 Hello, I'm Vladimir</h1>
-        <h3>📈 Junior Fullstack .Net Developer (.Net/React/Python)</h2>
+        <h3>📈 Fullstack .Net Developer (.Net/React/Python)</h2>
         <p>Welcome to my GitHub profile README! Here you'll find information about my skills, projects, and contact details.</p>
     </div>
     <div>
