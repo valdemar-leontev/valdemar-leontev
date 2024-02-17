@@ -10,6 +10,7 @@
             <li>JavaScript</li>
             <li>TypeScript</li>
             <li>React</li>
+            <li>React-Query</li>
             <li>NextJs</li>
             <li>UI Libraries (material ui, devExtreme, radix-ui, shadcn/ui)</li>
             <li>State managers (zustand, redux-toolkit, react context)</li>
