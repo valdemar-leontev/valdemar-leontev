@@ -27,6 +27,7 @@
             <li>Django</li>
             <li>FastApi</li>
             <li>SQLAlchemy</li>
+            <li>Aiogram</li>
             <h2>Another tools</h2>
             <li>PostgreSQL</li>
             <li>Microsoft SQL Server</li>
