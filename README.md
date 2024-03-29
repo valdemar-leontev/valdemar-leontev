@@ -7,9 +7,7 @@
     <div>
         <h1>🔧 Skills</h2>
         <ul>
-            
-            Frontend
-            
+            <h1>Frontend</h1>
             <li>JavaScript</li>
             <li>TypeScript</li>
             <li>React</li>
@@ -17,25 +15,19 @@
             <li>NextJs</li>
             <li>UI Libraries (material ui, devExtreme, radix-ui, shadcn/ui)</li>
             <li>State managers (zustand, redux-toolkit, react context)</li>
-            
-            Backend C#
-            
+            <h1>Backend C#</h1>
             <li>C#</li>
             <li>.NET</li>
             <li>ASP.NET Core</li>
             <li>LINQ</li>
             <li>Entity Framework</li>
             <li>SQL</li>
-            
-            Backend Python
-            
+            <h1>Backend Python</h1>
             <li>Python</li>
             <li>Django</li>
             <li>FastApi</li>
             <li>SQLAlchemy</li>
-
-            Another tools
-            
+            <h1>Another tools</h1>
             <li>PostgreSQL</li>
             <li>Microsoft SQL Server</li>
             <li>Docker</li>
