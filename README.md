@@ -112,7 +112,6 @@
         <ul>
             <li>Web Development</li>
             <li>New Technologies</li>
-            <li>Web Design</li>
         </ul>
     </div>
     <div>
