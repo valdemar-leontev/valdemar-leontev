@@ -7,6 +7,13 @@
     <div>
         <h1>🔧 Skills</h2>
         <ul>
+            <h2>Backend C#</h2>
+            <li>C#</li>
+            <li>.NET</li>
+            <li>ASP.NET Core</li>
+            <li>LINQ</li>
+            <li>Entity Framework</li>
+            <li>SQL</li>
             <h2>Frontend</h2>
             <li>JavaScript</li>
             <li>TypeScript</li>
@@ -15,13 +22,6 @@
             <li>NextJs</li>
             <li>UI Libraries (material ui, devExtreme, radix-ui, shadcn/ui)</li>
             <li>State managers (zustand, redux-toolkit, react context)</li>
-            <h2>Backend C#</h2>
-            <li>C#</li>
-            <li>.NET</li>
-            <li>ASP.NET Core</li>
-            <li>LINQ</li>
-            <li>Entity Framework</li>
-            <li>SQL</li>
             <h2>Backend Python</h2>
             <li>Python</li>
             <li>Django</li>
