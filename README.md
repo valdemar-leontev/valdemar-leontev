@@ -15,7 +15,7 @@
             <li>Entity Framework</li>
             <li>SQL</li>
             <li>Hangfire</li>
-            <li>Apache Kafka/li>
+            <li>Apache Kafka</li>
             <li>RabbitMQ</li>
             <h2>Frontend</h2>
             <li>JavaScript</li>
