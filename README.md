@@ -116,6 +116,8 @@
         <ul>
             <li>Web Development</li>
             <li>New Technologies</li>
+            <li>Music</li>
+            <li>Sport</li>
         </ul>
     </div>
     <div>
