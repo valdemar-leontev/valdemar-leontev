@@ -15,6 +15,8 @@
             <li>Entity Framework</li>
             <li>SQL</li>
             <li>Hangfire</li>
+            <li>AutoMapper</li>
+            <li>MediatR + CQRS</li>
             <li>Apache Kafka</li>
             <li>RabbitMQ</li>
             <h2>Frontend</h2>
