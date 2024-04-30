@@ -124,7 +124,7 @@
         <h1>📫 Contact</h1>
         <ul>
         <li>Email: <a href="mailto:valdemar.leontev@gmail.com">valdemar.leontev@gmail.com</a></li>
-        <li>Telegram: <a href="https://t.me/valdemar_leontev">Telegram Profile</a></li>
+        <li>Telegram: <a href="https://t.me/vladimir_leontev">Telegram Profile</a></li>
         </ul>
     </div>
     <div>
