@@ -13,6 +13,7 @@
             <li>ASP.NET Core</li>
             <li>LINQ</li>
             <li>Entity Framework</li>
+            <li>Dapper</li>
             <li>SQL</li>
             <li>Hangfire</li>
             <li>AutoMapper</li>
